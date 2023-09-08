@@ -1,7 +1,5 @@
 # Data Privacy Enhancement RPA with Power Automate Desktop
 
-![Project Logo or Banner Image](link_to_image)
-
 ## Introduction
 
 Welcome to the Data Privacy Enhancement RPA project with Power Automate Desktop. This repository houses an RPA workflow designed to bolster data privacy by encrypting sensitive information, such as names and NRIC, before securely transferring it. This solution is particularly valuable for professionals in data analytics, data management, and AML KYC (Anti-Money Laundering and Know Your Customer) domains where data privacy is of utmost importance.
